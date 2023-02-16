@@ -17,37 +17,30 @@ A brief description of the project and what it does.
 
 ## Installation
 
-A step-by-step guide on how to install the project and its dependencies.
+
 
 ## Usage
 
-Instructions and examples on how to use the project.
+
 
 ## Contributing
 
-Guidelines on how to contribute to the project, including a code of conduct and instructions on how to set up the development environment.
+
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ---
 
 ## Support
 
-If you encounter any problems or have any questions, please [create an issue](https://github.com/sergiojosevalente/bot-telegram-botman/issues) on GitHub.
+
 
 ## Acknowledgments
 
-Any credits or acknowledgments for external resources used in the project.
+
 
 ## Author
 
-Your name and contact information, and a link to your personal website or portfolio.
-
----
-
-Don't forget to add a detailed description of your project and how to use it, as well as instructions on how to install and contribute to it. You can also add badges to your README file to show your project's status, such as build status, code coverage, and open issues or pull requests.
-
-It's important to keep your README file up to date as your project evolves and new features are added. This will help users and potential contributors understand your project and how to use it effectively.
 
