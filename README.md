@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/sergiojosevalente/bot-telegram-botman.svg)](https://github.com/sergiojosevalente/bot-telegram-botman/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/sergiojosevalente/bot-telegram-botman.svg)](https://github.com/sergiojosevalente/bot-telegram-botman/pulls)
 
-A brief description of the project and what it does.
+If you are going it to use on linux server make sure that you already install xampp for the database and also just change the token and chatid. If you try in server and show error maybe you have to change the token instead of make a folder to import the token just put on directly in file bot.php
 
 ## Table of Contents
 
@@ -42,5 +42,11 @@ A brief description of the project and what it does.
 
 
 ## Author
-
+Telkom University, IT Asisstant Telkomcel
+Timor-Leste
+https://desty.page/sergiojosevalente
+Twitter:@VSergio03
+Facebook:sergio.valente.3517
+Instagram:sergio_jose_valente
+https://t.me/sergiovalente03
 
