@@ -1,0 +1,1 @@
+curl -d url=https://8bd9-103-30-115-4.ap.ngrok.io/bot.php -X POST https://api.telegram.org/bot5814949504:AAH8SlHgDyYoM6bm229kSEE_vwSVHNoXA74/setWebhook
